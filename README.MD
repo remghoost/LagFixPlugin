@@ -12,7 +12,7 @@ I've found that it drastically reduces lag in stages with 10+ dead enemies.
 
 It's pretty bog-standard bepinex Unity modding, but we'll run through the setup just in case you're new to this.
 
-1. Grab `BepInEx-Unity.Mono-win-x64-6.0.0-pre.2.zip` from the [releases section of their github](https://github.com/BepInEx/BepInEx/releases).
+1. Grab `BepInEx-Unity.Mono-win-x64-6.0.0-pre.2.zip` from the [releases section of their github](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.2).
 2. Extract that into the game's root folder.
 3. Run the game once to generate the necessary folders.
 4. Download `LagFixPlugin.zip` from [the releases section of this github repo](https://github.com/remghoost/LagFixPlugin/releases/).
