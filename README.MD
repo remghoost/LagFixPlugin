@@ -15,7 +15,7 @@ It's pretty bog-standard bepinex Unity modding, but we'll run through the setup 
 1. Grab `BepInEx-Unity.Mono-win-x64-6.0.0-pre.2.zip` from the [releases section of their github](https://github.com/BepInEx/BepInEx/releases).
 2. Extract that into the game's root folder.
 3. Run the game once to generate the necessary folders.
-4. Download the mod `.zip` from the releases section of this github repo.
+4. Download the mod `.zip` from [the releases section of this github repo](https://github.com/remghoost/LagFixPlugin/releases/).
 5. Extract `LagFixPlugin` into `SULFUR/BepInEx/Plugins`.
 6. Done!
 
